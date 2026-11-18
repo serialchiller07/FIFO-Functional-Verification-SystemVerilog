@@ -54,6 +54,4 @@ On a successful run, the scoreboard reports zero errors and prints `PASS: scoreb
 - Add reset recovery and back-to-back boundary tests.
 - Produce saved coverage reports and waveforms from your actual simulator run.
 
-## Notes
 
-This project is a compact class-based verification environment, **not UVM**. Its checks correspond to the documented FIFO acceptance policy; changing that policy requires corresponding reference-model updates.
